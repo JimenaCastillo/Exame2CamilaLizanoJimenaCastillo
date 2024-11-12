@@ -16,7 +16,7 @@ public class CalculadoraTest {
     @Test
     public void testConvertirNumero_WithValidBinary() {
         // Prueba con un número binario válido
-        String input = "1101"; // 13 en decimal
+        String input = "1109"; // 13 en decimal
         int base = 0; // Base binaria
         int resultadoEsperado = 13;
 
